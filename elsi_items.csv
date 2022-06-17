@@ -1,0 +1,31 @@
+ID,NAME,food,taste,smell,vision,mod-neutral,mod-neutral emo valance,emo valence,L1,L2,lL3,L4,L5
+1,Jacob,cake,minty,fragrant,enormous,homemade,disgusting,neg,taste adj,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj
+2,Anna,cookie,minty,fragrant,enormous,homemade,disgusting,neg,mod neutral w emo adj,taste adj,smell adj,vision adj,mod-nautral adj
+3,Brandon,donut,minty,fragrant,enormous,homemade,disgusting,neg,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj,vision adj
+4,Ashley,muffin,minty,fragrant,enormous,homemade,disgusting,neg,vision adj,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj
+5,Noah,brownie,minty,fragrant,enormous,homemade,disgusting,neg,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj,
+6,Olivia,rice,salty,aromatic,ugly,vegan,strange,neg,taste adj,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj
+7,Dan,dumpling,salty,aromatic,ugly,vegan,strange,neg,mod neutral w emo adj,taste adj,smell adj,vision adj,mod-nautral adj
+8,Daniella,pasta,salty,aromatic,ugly,vegan,strange,neg,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj,vision adj
+9,Jason,spaghetti,salty,aromatic,ugly,vegan,strange,neg,vision adj,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj
+10,Gina,baguette,salty,aromatic,ugly,vegan,strange,neg,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj,
+11,Oscar,hamburger,tasty,pungent,small,organic,amazing,pos,taste adj,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj
+12,Megan,pork chop,tasty,pungent,small,organic,amazing,pos,mod neutral w emo adj,taste adj,smell adj,vision adj,mod-nautral adj
+13,Steven,chicken nugget,tasty,pungent,small,organic,amazing,pos,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj,vision adj
+14,Evelyn,steak,tasty,pungent,small,organic,amazing,pos,vision adj,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj
+15,Eric,meatloaf,tasty,pungent,small,organic,amazing,pos,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj,
+16,Amanda,pancake,buttery,scentless,brown,gluten-free,delightful,pos,taste adj,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj
+17,Ben,pie,buttery,scentless,brown,gluten-free,delightful,pos,mod neutral w emo adj,taste adj,smell adj,vision adj,mod-nautral adj
+18,Nicole,biscuit,buttery,scentless,brown,gluten-free,delightful,pos,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj,vision adj
+19,Matt,croissant,buttery,scentless,brown,gluten-free,delightful,pos,vision adj,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj
+20,Sarah,cracker,buttery,scentless,brown,gluten-free,delightful,pos,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj,
+21,Ethan,salad,tart,smelly,colorful,nutritious,wonderful,pos,taste adj,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj
+22,Jennifer,pickle,tart,smelly,colorful,nutritious,wonderful,pos,mod neutral w emo adj,taste adj,smell adj,vision adj,mod-nautral adj
+23,Seth,yoghurt,tart,smelly,colorful,nutritious,wonderful,pos,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj,vision adj
+24,Sophia,apple,tart,smelly,colorful,nutritious,wonderful,pos,vision adj,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj
+25,Patrick,orange,tart,smelly,colorful,nutritious,wonderful,pos,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj,
+26,Maria,pretzel,chewy,stinky,pale,cheap,unusual,neg,taste adj,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj
+27,Frank,quesadilla,chewy,stinky,pale,cheap,unusual,neg,mod neutral w emo adj,taste adj,smell adj,vision adj,mod-nautral adj
+28,Chloe,pizza,chewy,stinky,pale,cheap,unusual,neg,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj,vision adj
+29,Henry,burrito,chewy,stinky,pale,cheap,unusual,neg,vision adj,mod-nautral adj,mod neutral w emo adj,taste adj,smell adj
+30,Claire,baked potato,chewy,stinky,pale,cheap,unusual,neg,smell adj,vision adj,mod-nautral adj,mod neutral w emo adj,
